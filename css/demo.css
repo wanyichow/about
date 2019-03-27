@@ -39,9 +39,9 @@ main {
 /* Icons */
 .icon {
 	display: block;
-	width: 1.5em;
-	height: 1.5em;
-	margin: 0 auto;
+width: 2.5em;
+height: 2.5em;
+margin: 6px 8px 12px 20px;
 	fill: currentColor;
 }
 
@@ -138,7 +138,7 @@ main {
 }
 
 .codrops-links::after {
-	position: absolute;
+	position: hidden;
 	top: -2px;
 	left: 50%;
 	width: 2px;
