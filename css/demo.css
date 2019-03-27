@@ -232,9 +232,9 @@ margin: 6px 8px 12px 20px;
 	padding: 0 0 2em 0;
 	max-width: 65vw;
 	margin: 0 0 0 auto;
-	text-align: justify;
-	font-size: 1.65em;
-	line-height: 1.5;
+	text-align: initial;
+	font-size: 1.75em;
+	line-height: 2em;
 }
 
 .content--blended p:nth-of-type(even) {
