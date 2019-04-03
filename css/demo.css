@@ -303,7 +303,12 @@ margin: 6px 8px 12px 20px;
 	}
 
 	.email{
-		visibility: hidden;
+		display: table-cell;
+		outline: none;
+    color: #f670c8;
+    text-decoration: none;
+    margin: 2em 5em 9em 55em;
+
 	}
 
 
@@ -314,6 +319,7 @@ margin: 6px 8px 12px 20px;
 		position: fixed;
 		width: 100%;
 		z-index: 999;
+		margin: -80%;
 	}
 	#header .header-content {
 		margin: 0 auto;
