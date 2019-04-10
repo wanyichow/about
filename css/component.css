@@ -94,7 +94,7 @@
 	width: 280px;
 	height: 280px;
 	border-radius: 50%;
-	background-image: url(img/3.jpg);
+	background-image: url("img/3.jpg");
 
 }
 
