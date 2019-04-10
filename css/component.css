@@ -94,7 +94,8 @@
 	width: 280px;
 	height: 280px;
 	border-radius: 50%;
-	
+	background-image: url(img/3.jpg);
+
 }
 
 .pop-media__overlay {
@@ -121,7 +122,7 @@
 }
 
 .pop-media__overlay--c3 {
-	opacity: 0;
+	opacity: 0.1;
 	background: linear-gradient(to left, #4444fb, #fdc855);
 }
 
