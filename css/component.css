@@ -121,8 +121,7 @@
 }
 
 .pop-media__overlay--c3 {
-  visibility: hidden;
-	opacity: 0.1;
+  opacity: 0.1;
 	background: linear-gradient(to left, #4444fb, #fdc855);
 }
 
