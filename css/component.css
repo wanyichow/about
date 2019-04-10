@@ -20,17 +20,17 @@
 }
 
 .content__paragraph--c3 {
-	color: #feaa48;
+	color: #94119e;
 	mix-blend-mode: luminosity;
 }
 
 .content__paragraph--c4 {
-	color: #fb6868;
+	color: #a11717;
 	mix-blend-mode: hard-light;
 }
 
 .content__paragraph--c5 {
-	color: #fd5ae8;
+	color: #692872;
 	mix-blend-mode: luminosity;
 }
 
@@ -177,7 +177,7 @@
 	cursor: default;
 	white-space: nowrap;
 	word-spacing: -0.1em;
-	color: #5a3f5c;
+	color: #1018e6;
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
