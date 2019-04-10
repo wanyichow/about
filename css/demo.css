@@ -3,7 +3,7 @@
 body {
 	font-family: 'Space Mono', 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans-serif;
 	color: #fff;
-	background: #4133b4;
+	background: white;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	overflow: auto;
@@ -100,6 +100,7 @@ margin: 6px 8px 12px 20px;
 	display: -webkit-flex;
 	display: -ms-flexbox;
 	display: flex;
+	color:black;
 	-webkit-flex-direction: row;
 	-ms-flex-direction: row;
 	flex-direction: row;
@@ -236,6 +237,7 @@ margin: 6px 8px 12px 20px;
 	text-align: initial;
 	font-size: 1.75em;
 	line-height: 2em;
+	font-weight: 510;
 }
 
 .content--blended p:nth-of-type(even) {

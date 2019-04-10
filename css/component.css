@@ -10,7 +10,7 @@
 /* Individual paragraph colors and blend modes */
 
 .content__paragraph--c1 {
-	color: #6ae0fd;
+	color: #07058d;
 	mix-blend-mode: color-dodge;
 }
 
@@ -35,7 +35,7 @@
 }
 
 .content__paragraph--c6 {
-	color: #7cffe8;
+	color: #1f403a;
 	mix-blend-mode: difference;
 }
 
@@ -60,7 +60,7 @@
 }
 
 .content__paragraph--c11 {
-	color: #74e2fd;
+	color: #0c738c;
 	mix-blend-mode: color-dodge;
 }
 
@@ -177,7 +177,7 @@
 	cursor: default;
 	white-space: nowrap;
 	word-spacing: -0.1em;
-	color: #fded62;
+	color: #5a3f5c;
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
