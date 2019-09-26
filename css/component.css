@@ -361,6 +361,11 @@
 	height: 100vh;
 }
 
+.pop-media--full1 {
+	display: fixed;
+	width: 100vw;
+	height: 100vh;
+}
 
 /* Fullscreen Type */
 
