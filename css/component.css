@@ -187,6 +187,21 @@
 	-khtml-user-select: none;
 }
 
+.pop-text1 {
+	font-weight: bold;
+	position: relative;
+	cursor: default;
+	white-space: nowrap;
+	word-spacing: -0.1em;
+	color: #94119e;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-touch-callout: none;
+	-khtml-user-select: none;
+}
+
 .pop-text--s1:hover {
 	color: #000;
 	background: yellow;
